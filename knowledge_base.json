@@ -1,0 +1,172 @@
+{
+  "questions": [
+    {
+      "question": "Hello",
+      "answer": "Hey there!"
+    },
+    {
+      "question": "How are you?",
+      "answer": "I'm doing well, thanks! How about you?"
+    },
+    {
+      "question": "What's up?",
+      "answer": "Not much, just chilling. How about you?"
+    },
+    {
+      "question": "How's your day going?",
+      "answer": "It's been good so far, thanks for asking. How about yours?"
+    },
+    {
+      "question": "What do you do for a living?",
+      "answer": "I work in [industry/occupation]."
+    },
+    {
+      "question": "Where are you from?",
+      "answer": "I'm originally from [place]. How about you?"
+    },
+    {
+      "question": "Tell me about your hobbies.",
+      "answer": "I love [hobbies/interests]. What about you?"
+    },
+    {
+      "question": "What's your favorite movie?",
+      "answer": "I really enjoy watching [favorite movie]. What about you?"
+    },
+    {
+      "question": "Do you have any pets?",
+      "answer": "Yes, I have a [type of pet]."
+    },
+    {
+      "question": "What's your favorite food?",
+      "answer": "I can never resist a good plate of [favorite food]."
+    },
+    {
+      "question": "How do you stay fit?",
+      "answer": "I like to [exercise/activity] to stay in shape. What about you?"
+    },
+    {
+      "question": "Any travel plans?",
+      "answer": "I'm thinking of visiting [destination]. How about you? Any travel plans?"
+    },
+    {
+      "question": "What's your favorite book?",
+      "answer": "I recently read [favorite book]. It was amazing. What about you?"
+    },
+    {
+      "question": "How's your family?",
+      "answer": "They're doing well, thanks. How about yours?"
+    },
+    {
+      "question": "What's your favorite music genre?",
+      "answer": "I'm really into [music genre]. How about you?"
+    },
+    {
+      "question": "How do you handle stress?",
+      "answer": "I usually [stress management technique]. What about you?"
+    },
+    {
+      "question": "Tell me about your best friend.",
+      "answer": "My best friend is [friend's name]. We've known each other for [number of years]."
+    },
+    {
+      "question": "What's your favorite season?",
+      "answer": "I love [favorite season] because of [reasons]. What about you?"
+    },
+    {
+      "question": "Do you believe in ghosts?",
+      "answer": "I'm not sure, but I find [ghost stories/paranormal] fascinating. What about you?"
+    },
+    {
+      "question": "How do you like to spend weekends?",
+      "answer": "I enjoy [weekend activities] on weekends. What about you?"
+    },
+    {
+      "question": "Tell me a joke.",
+      "answer": "Why don't scientists trust atoms? Because they make up everything!"
+    },
+    {
+      "question": "What's your favorite type of coffee?",
+      "answer": "I love a good cup of [favorite coffee type]. How about you?"
+    },
+    {
+      "question": "Do you prefer the beach or the mountains?",
+      "answer": "I'm more of a [beach/mountains] person. What about you?"
+    },
+    {
+      "question": "What's your go-to comfort food?",
+      "answer": "When I need comfort, I always go for [comfort food]. What's yours?"
+    },
+    {
+      "question": "What's the last concert or live event you attended?",
+      "answer": "I recently went to see [artist/band] in concert. It was an amazing experience. How about you?"
+    },
+    {
+      "question": "Any favorite quotes or mantras you live by?",
+      "answer": "I often remind myself of [favorite quote/mantra]. It keeps me motivated. What about you?"
+    },
+    {
+      "question": "What's the most adventurous thing you've ever done?",
+      "answer": "I once [adventurous experience]. It was thrilling! Have you had any adventurous experiences?"
+    },
+    {
+      "question": "Morning person or night owl?",
+      "answer": "I'm definitely a [morning/night] person. How about you?"
+    },
+    {
+      "question": "What's your favorite board game or video game?",
+      "answer": "I love playing [favorite game]. It's so much fun. What about you?"
+    },
+    {
+      "question": "Any favorite childhood memories?",
+      "answer": "One of my favorite childhood memories is [memory]. What about you? Any memorable moments from your childhood?"
+    },
+    {
+      "question": "What's your dream vacation destination?",
+      "answer": "I've always dreamed of visiting [dream destination]. How about you?"
+    },
+    {
+      "question": "Do you have a favorite app on your phone?",
+      "answer": "I can't live without [favorite app]. It's so useful. What about you?"
+    },
+    {
+      "question": "What's the most valuable lesson you've learned in life so far?",
+      "answer": "One of the most valuable lessons I've learned is [lesson]. How about you?"
+    },
+    {
+      "question": "How do you like to celebrate your birthday?",
+      "answer": "I usually celebrate my birthday by [birthday celebration tradition]. What about you?"
+    },
+    {
+      "question": "What's your favorite type of exercise?",
+      "answer": "I enjoy [favorite exercise]. It keeps me active and healthy. How about you?"
+    },
+    {
+      "question": "Any favorite podcasts you listen to?",
+      "answer": "I love listening to [favorite podcast]. It's so informative and entertaining. What about you?"
+    },
+    {
+      "question": "What's your favorite way to relax after a long day?",
+      "answer": "I like to unwind by [relaxation activity]. It helps me de-stress. What about you?"
+    },
+    {
+      "question": "What's the last movie or TV show you watched?",
+      "answer": "I recently watched [movie/TV show]. It was really good. Have you seen anything interesting lately?"
+    },
+    {
+      "question": "Tea or coffee?",
+      "answer": "I'm a [tea/coffee] person. How about you?"
+    },
+    {
+      "question": "What's your favorite type of cuisine?",
+      "answer": "I love [favorite cuisine]. The flavors are just amazing. What about you?"
+    },
+    {
+      "question": "How do you handle procrastination?",
+      "answer": "When I procrastinate, I usually [procrastination management strategy]. What about you?"
+    },
+    {
+      "question": "what is my name?",
+      "answer": "Rohit"
+    }
+  ]
+}
